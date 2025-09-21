@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/bluestone-clone/static/css/main.01ba2318.css",
-    "main.js": "/bluestone-clone/static/js/main.c766a077.js",
+    "main.js": "/bluestone-clone/static/js/main.61a4eca4.js",
     "static/js/453.910a76fa.chunk.js": "/bluestone-clone/static/js/453.910a76fa.chunk.js",
     "static/media/hero.mp4.mp4": "/bluestone-clone/static/media/hero.mp4.4a195bf28842b1d896b9.mp4",
     "static/media/ayaneband.webp": "/bluestone-clone/static/media/ayaneband.70b7d2b9455eb65811ee.webp",
@@ -62,11 +62,11 @@
     "static/media/logo.svg": "/bluestone-clone/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/bluestone-clone/index.html",
     "main.01ba2318.css.map": "/bluestone-clone/static/css/main.01ba2318.css.map",
-    "main.c766a077.js.map": "/bluestone-clone/static/js/main.c766a077.js.map",
+    "main.61a4eca4.js.map": "/bluestone-clone/static/js/main.61a4eca4.js.map",
     "453.910a76fa.chunk.js.map": "/bluestone-clone/static/js/453.910a76fa.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.01ba2318.css",
-    "static/js/main.c766a077.js"
+    "static/js/main.61a4eca4.js"
   ]
 }
